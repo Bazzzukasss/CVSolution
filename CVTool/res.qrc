@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/eval_annotation.txt</file>
+        <file>res/image.jpg</file>
+        <file>res/ref_annotation.txt</file>
+        <file>res/pause.svg</file>
+        <file>res/play.svg</file>
+        <file>res/stop.svg</file>
+    </qresource>
+</RCC>
