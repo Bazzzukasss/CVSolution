@@ -30,7 +30,8 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
 
     //mRequester.initRequester("127.0.0.1", 8080, nullptr);
-    mRequester.initRequester("172.22.41.37", 8080, nullptr);
+    //mRequester.initRequester("172.22.41.37", 8080, nullptr);
+    mRequester.initRequester("172.22.48.9", 8080, nullptr);
 
     startTimer(5);
 }
